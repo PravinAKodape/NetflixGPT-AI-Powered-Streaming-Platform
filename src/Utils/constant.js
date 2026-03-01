@@ -1,0 +1,15 @@
+export const LOGO = "https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-897231c7763c/4345ea78-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png";
+
+export const userLOGO = "https://occ-0-4344-2164.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABTZ2zlLdBVC05fsd2YQAR43J6vB1NAUBOOrxt7oaFATxMhtdzlNZ846H3D8TZzooe2-FT853YVYs8p001KVFYopWi4D4NXM.png?r=229";
+
+
+export const API_OPTIONS = {
+    method: 'GET',
+    headers: {
+      accept: 'application/json',
+      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0N2E1YjVlOTdmMWVhMDk5MGUyYjBlNzRkOWM0MGQwOSIsIm5iZiI6MTcxOTIxMjYzMS43NTA1MjQsInN1YiI6IjY2NzkxODc0ZDY3ZDVjMmUwNWVlODAwOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.qn7oCSmLB2hmwKNeb7l2wTN8a-9d_-ZJNp_jR-QdBpk'
+    }
+  };
+  export const IMG_CDN = "https://image.tmdb.org/t/p/w400";
+
+ 
